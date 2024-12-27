@@ -3,7 +3,7 @@
 🎓 **B.Tech in Computer Science and Engineering**  
 📍 Bengal College of Engineering and Technology, Durgapur (2022–2026)  
 📧 [ribhusaha2003@gmail.com](mailto:ribhusaha2003@gmail.com)  
-🌐 [Portfolio](#) | [GitHub](#) | [LinkedIn](#)
+🌐 [Portfolio](https://anirban-saha-portfolio.netlify.app) | [GitHub](https://github.com/TheFastest599) | [LinkedIn](www.linkedin.com/in/anirban-saha-245640256)
 
 ---
 
@@ -33,32 +33,32 @@ Currently, I'm diving deep into **MERN and FARM stacks**, learning new technolog
 
 ## 💻 Projects
 
-### 🌍 [CoordiName](#)
+### 🌍 [CoordiName](https://github.com/TheFastest599/CoordiName)
 
 ![FARM](<https://img.shields.io/badge/Tech_Stack-FARM_(FastAPI%2C_React%2C_MongoDB)-009688?style=for-the-badge>)
 
 -   Converts locations into unique four-word combinations (e.g., "quakier-delivery-take-scientific").
 
-### 📦 [ParcelPro - Courier Management System](#)
+### 📦 [ParcelPro - Courier Management System](https://github.com/TheFastest599/ParcelPro)
 
 ![MERN](<https://img.shields.io/badge/Tech_Stack-MERN_(MongoDB%2C_Express.js%2C_React%2C_Node.js)-61DAFB?style=for-the-badge>)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 -   A platform for real-time package tracking, user authentication, and email notifications.
 
-### 🗒️ [MyNotebook](#)
+### 🗒️ [MyNotebook](https://github.com/TheFastest599/mynotebook)
 
 ![MERN](<https://img.shields.io/badge/Tech_Stack-MERN_(MongoDB%2C_Express.js%2C_React%2C_Node.js)-61DAFB?style=for-the-badge>)
 
 -   Cloud-based app for managing notes, to-do lists, and email reminders.
 
-### 🏥 [Health Wings Hospital Management System](#)
+### 🏥 [Health Wings Hospital Management System](https://github.com/TheFastest599/HOSPITAL-MANAGEMENT-SYSTEM)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 -   GUI-based app for managing hospital bed bookings and patient records.
 
-### 🌟 [Personal Portfolio Website](#)
+### 🌟 [Personal Portfolio Website](https://github.com/TheFastest599/my-portfolio)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
