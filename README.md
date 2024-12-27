@@ -104,10 +104,10 @@ Responsive website showcasing projects, skills, and experiences.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"> 
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" alt="GitHub Streak" width="100%">
 </p>
 
 ### 🏆 Trophies
