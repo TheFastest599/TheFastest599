@@ -121,6 +121,16 @@ Responsive website showcasing projects, skills, and experiences.
 
 ---
 
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/THEFASTEST599/">
+    <img src="https://leetcard.jacoblin.cool/THEFASTEST599?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats">
+  </a>
+</p>
+
+---
+
 ## 🎯 Positions of Responsibility
 
 -   **Web Lead**, Google Developer Groups On Campus BCET (Sep. 2024–Present)  
