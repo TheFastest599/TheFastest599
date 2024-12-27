@@ -106,7 +106,6 @@ Responsive website showcasing projects, skills, and experiences.
 
 <p align = center>
   <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" alt="GitHub Stats" width="80%"> 
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" alt="GitHub Streak" width="80%">
 </p>
 
