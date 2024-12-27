@@ -68,7 +68,7 @@ Converts locations into unique four-word combinations like `"quakier-delivery-ta
 
 ### 📦 [ParcelPro - Courier Management System](https://github.com/TheFastest599/ParcelPro)
 
-<img src="https://img.shields.io/badge/Tech_Stack-MERN_(MongoDB%2C_Express.js%2C_React%2C_Node.js)-61DAFB?style=for-the-badge" alt="MERN Stack">
+<img src="https://img.shields.io/badge/Tech_Stack-MERN_(MongoDB%2C_Express.js%2C_React%2C_Node.js)-61DAFB?style=for-the-badge" alt="MERN Stack"> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 
 Streamlines courier operations with real-time tracking, user authentication, and email notifications.
@@ -105,7 +105,8 @@ Responsive website showcasing projects, skills, and experiences.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"> 
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" alt="GitHub Streak" width="49%">
 </p>
 
