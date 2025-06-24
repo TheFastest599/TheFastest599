@@ -5,158 +5,148 @@
 📍 **Bengal College of Engineering and Technology, Durgapur (2022–2026)**  
 📧 **Email**: [ribhusaha2003@gmail.com](mailto:ribhusaha2003@gmail.com)  
 🌐 **Portfolio**: [anirban-saha-portfolio.netlify.app](https://anirban-saha-portfolio.netlify.app)  
-🔗 **GitHub**: [TheFastest599](https://github.com/TheFastest599) | **LinkedIn**: [anirban-saha-245640256](https://www.linkedin.com/in/anirban-saha-245640256)
+🔗 **GitHub**: [TheFastest599](https://github.com/TheFastest599)  
+🔗 **LinkedIn**: [anirban-saha-245640256](https://www.linkedin.com/in/anirban-saha-245640256)  
+🧠 **LeetCode**: [THEFASTEST599](https://leetcode.com/u/THEFASTEST599/)
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm **Anirban**, a passionate **full-stack developer**, coding enthusiast, and problem solver. I specialize in building innovative, impactful projects and contributing to initiatives that make a difference.
+Hey there! I'm **Anirban**, a curious and passionate **full-stack developer**, problem solver, and tech enthusiast. I love building scalable backend systems, seamless frontend interfaces, and deploying modern apps to the web.
 
-Currently exploring **MERN** and **FARM** stacks, I'm diving deep into the latest technologies and honing my skills to bring ideas to life.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-</p>
-
-### Web Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
-
-### Backend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+I'm currently exploring the **MERN** and **FARM** stacks, and actively working on building impactful real-world projects and contributing to developer communities.
 
 ---
 
-## 💻 Projects
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🧑‍💻 Python Developer Intern – [Meridian Voyage](https://meridianvoyage.in)
+**Duration:** March 2025 – May 2025  
+**Work:**  
+- Built and optimized internal backend APIs for real-time dashboard analytics.  
+- Created user auth, admin panels, and data processing pipelines using **Python, Django, and PostgreSQL**.  
+- Integrated Docker and CI tools for smooth development and deployment workflows.
+
+---
+
+## 🚀 Projects
 
 ### 🌍 [CoordiName](https://github.com/TheFastest599/CoordiName)
-
-<img src="https://img.shields.io/badge/Tech_Stack-FARM_(FastAPI%2C_React%2C_MongoDB)-009688?style=for-the-badge" alt="FARM Stack">
-
-Converts locations into unique four-word combinations like `"quakier-delivery-take-scientific"`.
+**Tech:** FARM Stack (FastAPI, React, MongoDB)  
+> Converts coordinates into memorable four-word codes like `quakier-delivery-take-scientific`.
 
 ---
 
-### 📦 [ParcelPro - Courier Management System](https://github.com/TheFastest599/ParcelPro)
-
-<img src="https://img.shields.io/badge/Tech_Stack-MERN_(MongoDB%2C_Express.js%2C_React%2C_Node.js)-61DAFB?style=for-the-badge" alt="MERN Stack"> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-
-Streamlines courier operations with real-time tracking, user authentication, and email notifications.
+### 📦 [ParcelPro](https://github.com/TheFastest599/ParcelPro)
+**Tech:** MERN + TailwindCSS  
+> A courier management system with real-time tracking, secure login, and admin dashboard.
 
 ---
 
 ### 🗒️ [MyNotebook](https://github.com/TheFastest599/mynotebook)
-
-<img src="https://img.shields.io/badge/Tech_Stack-MERN_(MongoDB%2C_Express.js%2C_React%2C_Node.js)-61DAFB?style=for-the-badge" alt="MERN Stack">
-
-Cloud-based platform for managing notes, to-do lists, and email reminders.
+**Tech:** MERN Stack  
+> Cloud-based app to manage notes and set reminders with JWT auth and email integration.
 
 ---
 
-### 🏥 [Health Wings Hospital Management System](https://github.com/TheFastest599/HOSPITAL-MANAGEMENT-SYSTEM)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
-GUI-based app for managing hospital bed bookings and patient records.
+### 🏥 [Health Wings Hospital System](https://github.com/TheFastest599/HOSPITAL-MANAGEMENT-SYSTEM)
+**Tech:** Python (Tkinter + Pandas)  
+> GUI-based hospital system to track bed occupancy and patient info using local CSV records.
 
 ---
 
-### 🌟 [Personal Portfolio Website](https://github.com/TheFastest599/my-portfolio)
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-
-Responsive website showcasing projects, skills, and experiences.
+### 🌐 [Portfolio Website](https://github.com/TheFastest599/my-portfolio)
+**Tech:** React + TailwindCSS  
+> Fully responsive portfolio showcasing projects, skills, contact links, and resume.
 
 ---
 
-## 🏆 GitHub Activity & Achievements
-
-### 📊 GitHub Stats
-
-<p align = center>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" alt="GitHub Stats" width="80%"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" alt="GitHub Streak" width="80%">
-</p>
-
-### 🏆 Trophies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheFastest599&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" width="48%">
 </p>
 
-### 🖼️ Contribution Graph
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheFastest599&theme=radical&no-frame=true&row=1&column=6">
+</p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFastest599&theme=react&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&tile=true" alt="Contribution Graph (Tiles Version)"> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFastest599&theme=react-dark&area=true&hide_border=true">
+</p>
 
 ---
 
-### 🏆 LeetCode Stats
+## 🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/THEFASTEST599/">
-    <img src="https://leetcard.jacoblin.cool/THEFASTEST599?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/THEFASTEST599?theme=dark&font=Baloo%202&ext=heatmap">
   </a>
 </p>
 
 ---
 
-## 🎯 Positions of Responsibility
+## 🎯 Roles & Communities
 
--   **Web Lead**, Google Developer Groups On Campus BCET (Sep. 2024–Present)  
-    Leading the web development team in various projects and initiatives.
-
--   **Organizer**, Code Vision BCET (Aug. 2024–Present)  
-    Organizing coding events, workshops, and seminars.
-
--   **Coordinator**, Entrepreneurship Development Cell, BCET (Apr. 2023–Present)  
-    Driving innovation and entrepreneurship through events and programs.
+- 🧑‍💻 **Web Lead**, GDG On Campus BCET *(Sep 2024 – Present)*  
+- 🧠 **Organizer**, Code Vision BCET *(Aug 2024 – Present)*  
+- 💡 **Coordinator**, EDC BCET *(Apr 2023 – Present)*
 
 ---
 
 ## 📜 Certifications
 
--   Google AI-ML Virtual Internship
--   The Complete JavaScript Course 2023: From Zero to Expert!
+- **Google AI-ML Virtual Internship**  
+- **The Complete JavaScript Course 2023: From Zero to Expert!**
 
 ---
 
 ## 🏆 Achievements
 
--   🥈 2nd place in _CODE OF DUTY_ and 3rd place in _CODE ERROR_
--   🥈 2nd place in _CODE JAM HACKATHON_ with Team Edgerunners
+- 🥈 2nd Place – *CODE OF DUTY*  
+- 🥉 3rd Place – *CODE ERROR*  
+- 🥈 2nd Place – *CODE JAM Hackathon* with Team **Edgerunners**
 
 ---
 
-🌱 _I’m always open to learning, collaboration, and contributing to impactful projects!_  
-💬 Let’s connect and create something amazing together! 🚀
+🌱 _Open to collaboration, internships, and innovative ideas_  
+💬 _Feel free to connect — let’s build together!_
