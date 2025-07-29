@@ -5,6 +5,7 @@
 📍 **Bengal College of Engineering and Technology, Durgapur (2022–2026)**  
 📧 **Email**: [ribhusaha2003@gmail.com](mailto:ribhusaha2003@gmail.com)  
 🌐 **Portfolio**: [anirban-saha-portfolio.netlify.app](https://anirban-saha-portfolio.netlify.app)  
+🗒️ **Resume**: [link](https://drive.google.com/file/d/1LhihqYCPERpODCYLM6PKNVMWYQn3Vw7I/view?usp=sharing)  
 🔗 **GitHub**: [TheFastest599](https://github.com/TheFastest599)  
 🔗 **LinkedIn**: [anirban-saha-245640256](https://www.linkedin.com/in/anirban-saha-245640256)  
 🧠 **LeetCode**: [THEFASTEST599](https://leetcode.com/u/THEFASTEST599/)
@@ -57,12 +58,17 @@ I'm currently exploring the **MERN** and **FARM** stacks, and actively working o
 
 ## 💼 Experience
 
-### 🧑‍💻 Python Developer Intern – [Meridian Voyage](https://meridianvoyage.in)
-**Duration:** March 2025 – May 2025  
-**Work:**  
-- Built and optimized internal backend APIs for real-time dashboard analytics.  
-- Created user auth, admin panels, and data processing pipelines using **Python, Django, and PostgreSQL**.  
-- Integrated Docker and CI tools for smooth development and deployment workflows.
+### 🧑‍💻 Python Developer Intern
+**Duration:** February 2025 – May 2025  
+**Work:**
+- Built and optimized internal backend APIs for real-time dashboard analytics using Django and PostgreSQL.
+- Created user authentication, password reset, and admin panel features.
+- Developed a modern React + DaisyUI frontend dashboard with dynamic business rule engines (JDM + Zen).
+- Dockerized the application for dev/prod environments and configured Nginx reverse proxy for secure deployment.
+- Integrated performance optimization techniques like lazy loading, code splitting, gzip compression.
+- Hosted full-stack application and streamlined deployment workflows via shell scripts.
+
+🎥 **Project Demo**: [Internship Project Demo](https://youtu.be/WlCMqtsla1k)
 
 ---
 
@@ -72,29 +78,23 @@ I'm currently exploring the **MERN** and **FARM** stacks, and actively working o
 **Tech:** FARM Stack (FastAPI, React, MongoDB)  
 > Converts coordinates into memorable four-word codes like `quakier-delivery-take-scientific`.
 
----
-
 ### 📦 [ParcelPro](https://github.com/TheFastest599/ParcelPro)
 **Tech:** MERN + TailwindCSS  
 > A courier management system with real-time tracking, secure login, and admin dashboard.
-
----
 
 ### 🗒️ [MyNotebook](https://github.com/TheFastest599/mynotebook)
 **Tech:** MERN Stack  
 > Cloud-based app to manage notes and set reminders with JWT auth and email integration.
 
----
-
 ### 🏥 [Health Wings Hospital System](https://github.com/TheFastest599/HOSPITAL-MANAGEMENT-SYSTEM)
 **Tech:** Python (Tkinter + Pandas)  
 > GUI-based hospital system to track bed occupancy and patient info using local CSV records.
 
----
-
 ### 🌐 [Portfolio Website](https://github.com/TheFastest599/my-portfolio)
 **Tech:** React + TailwindCSS  
 > Fully responsive portfolio showcasing projects, skills, contact links, and resume.
+
+🎥 **MERN Projects Demo**: [Watch Demo](https://youtu.be/qgnsKX2Wa_8)
 
 ---
 
