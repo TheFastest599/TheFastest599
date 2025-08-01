@@ -102,8 +102,10 @@ I'm currently exploring the **MERN** and **FARM** stacks, and actively working o
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheFastest599&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFastest599&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFastest599&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheFastest599&theme=radical&no-frame=true&row=1&column=6">
