@@ -10,6 +10,8 @@
 🔗 **LinkedIn**: [anirban-saha-245640256](https://www.linkedin.com/in/anirban-saha-245640256)  
 🧠 **LeetCode**: [THEFASTEST599](https://leetcode.com/u/THEFASTEST599/)
 
+![](https://komarev.com/ghpvc/?username=TheFastest599&color=blue)
+
 ---
 
 ## 🚀 About Me
@@ -23,36 +25,44 @@ I'm currently exploring the **MERN** and **FARM** stacks, and actively working o
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Daisy UI](https://img.shields.io/badge/Daisy_UI-7C3AED?style=for-the-badge\&logo=daisyui\&logoColor=white)
 
 ### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -70,33 +80,52 @@ I'm currently exploring the **MERN** and **FARM** stacks, and actively working o
 
 🎥 **Project Demo**: [Internship Project Demo](https://youtu.be/WlCMqtsla1k)
 
+
 ---
 
 ## 🚀 Projects
 
-### 🌍 [CoordiName](https://github.com/TheFastest599/CoordiName)
-**Tech:** FARM Stack (FastAPI, React, MongoDB)  
-> Converts coordinates into memorable four-word codes like `quakier-delivery-take-scientific`.
+### 🌐 DOST-MCP (Ongoing)
+
+**Tech:** Python, FastAPI, PostgreSQL, MongoDB, Redis, React, Electron.js
+
+> Distributed conversational AI platform implementing the Model Context Protocol (MCP) for multi-service orchestration.
+> Developed MCP servers and CLI client for tool invocation, conversation flow, and testing.
+> Full-stack solution with LangGraph-based AI assistant, web interface, and cross-platform desktop client.
+
+### 🌍 CoordiName (Ongoing)
+
+**Tech:** FastAPI, React, PostgreSQL
+
+> Geotagging service converting coordinates into unique four-word codes for seamless referencing.
+> Asynchronous backend ensures low-latency spatial queries. *(Currently under development)*
 
 ### 📦 [ParcelPro](https://github.com/TheFastest599/ParcelPro)
-**Tech:** MERN + TailwindCSS  
-> A courier management system with real-time tracking, secure login, and admin dashboard.
+
+**Tech:** MERN + TailwindCSS
+
+> Courier management system with multiple user roles, secure login, live shipment tracking, and email alerts for client communication.
 
 ### 🗒️ [MyNotebook](https://github.com/TheFastest599/mynotebook)
-**Tech:** MERN Stack  
-> Cloud-based app to manage notes and set reminders with JWT auth and email integration.
 
-### 🏥 [Health Wings Hospital System](https://github.com/TheFastest599/HOSPITAL-MANAGEMENT-SYSTEM)
-**Tech:** Python (Tkinter + Pandas)  
-> GUI-based hospital system to track bed occupancy and patient info using local CSV records.
+**Tech:** MERN Stack
 
-### 🌐 [Portfolio Website](https://github.com/TheFastest599/my-portfolio)
-**Tech:** React + TailwindCSS  
-> Fully responsive portfolio showcasing projects, skills, contact links, and resume.
+> Personal productivity tool for notes, to-do lists, and email reminders.
+> JWT-based authentication with MongoDB persistence and automated email notifications.
+
+### 📄 [Markdown Render](https://github.com/TheFastest599/markdown-render)
+
+**Tech:** Next.js, Daisy UI, KaTeX, Mermaid, Graphviz
+
+> Dedicated Markdown reader supporting LaTeX/math formulas, diagrams, syntax highlighting for 200+ languages, persistent reading sessions, and PDF export.
+> Optimized for distraction-free reading of notes, research papers, and documentation.
 
 🎥 **MERN Projects Demo**: [Watch Demo](https://youtu.be/qgnsKX2Wa_8)
+🎥 **Internship Project Demo**: [Watch Demo](https://youtu.be/WlCMqtsla1k)
 
 ---
+
+
 
 ## 📈 GitHub Stats
 
@@ -130,23 +159,7 @@ I'm currently exploring the **MERN** and **FARM** stacks, and actively working o
 ## 🎯 Roles & Communities
 
 - 🧑‍💻 **Web Lead**, GDG On Campus BCET *(Sep 2024 – Present)*  
-- 🧠 **Organizer**, Code Vision BCET *(Aug 2024 – Present)*  
-- 💡 **Coordinator**, EDC BCET *(Apr 2023 – Present)*
-
----
-
-## 📜 Certifications
-
-- **Google AI-ML Virtual Internship**  
-- **The Complete JavaScript Course 2023: From Zero to Expert!**
-
----
-
-## 🏆 Achievements
-
-- 🥈 2nd Place – *CODE OF DUTY*  
-- 🥉 3rd Place – *CODE ERROR*  
-- 🥈 2nd Place – *CODE JAM Hackathon* with Team **Edgerunners**
+- 🧠 **Governor**, Code Vision BCET *(Aug 2025 – Present)*  
 
 ---
 
